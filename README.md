@@ -1,8 +1,8 @@
 # Most Active Cookie
 
-A lightweight, production-ready Python CLI tool that identifies the most active cookie(s) for a given date from a CSV log file.
+A lightweight tool that identifies the most active cookie(s) for a given date from a CSV log file.
 
-Built with only the Python standard library—no external dependencies required for core functionality.
+Built with only the Python standard library no external dependencies required for core functionality.
 
 ## Features
 
@@ -14,7 +14,7 @@ Built with only the Python standard library—no external dependencies required 
 
 ## What It Does
 
-Given a cookie log CSV file:
+Given a sample cookie log CSV file:
 
 ```csv
 cookie,timestamp
