@@ -50,6 +50,8 @@ python -m venv .venv
 # On macOS/Linux:
 source .venv/bin/activate
 
+python -m pip install -U pip==24.2 setuptools wheel
+
 # Install in editable mode
 pip install -e .
 ```
